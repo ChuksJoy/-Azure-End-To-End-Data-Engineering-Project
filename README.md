@@ -2,8 +2,8 @@
 
 This is an end-to-end data engineering and analytics project where I built a complete pipeline to extract football data from **Wikipedia**, process it in **Azure**, and visualise insights using **Tableau**.
 
-This project was inspired by and implemented while following this YouTube tutorial:  
-🔗 **YouTube Video:** https://www.youtube.com/watch?v=tKIXUqz17W8&t=21s  
+This project was inspired by and implemented while following this YouTube tutorial by Codewithyu, who is my mentor. You can find the video here ->
+[YouTube Video](https://www.youtube.com/watch?v=tKIXUqz17W8&t=21s)  
 
 ---
 
