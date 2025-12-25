@@ -1,4 +1,4 @@
-# -Azure-End-To-End-Data-Engineering-Project
+# Azure-End-To-End-Data-Engineering-Project
 
 This is an end-to-end data engineering and analytics project where I built a complete pipeline to extract football data from **Wikipedia**, process it in **Azure**, and visualise insights using **Tableau**.
 
