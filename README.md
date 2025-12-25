@@ -20,6 +20,11 @@ In this project, I designed and implemented a modern data engineering workflow u
 
 ---
 
+## Data Sources
+- [Wikipedia](https://en.wikipedia.org/wiki/List_of_association_football_stadiums_by_capacity)
+
+---
+
 ##  Technologies Used
 
 - **Apache Airflow** – Orchestrating and extracting football data from Wikipedia  
