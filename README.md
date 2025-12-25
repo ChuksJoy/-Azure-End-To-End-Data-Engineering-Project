@@ -22,6 +22,7 @@ In this project, I designed and implemented a modern data engineering workflow u
 
 ## Data Sources
 - [Wikipedia](https://en.wikipedia.org/wiki/List_of_association_football_stadiums_by_capacity)
+<img width="1729" height="578" alt="image" src="https://github.com/user-attachments/assets/2322e997-8397-4ca1-91ed-686a560d67e0" />
 
 ---
 
@@ -32,7 +33,11 @@ In this project, I designed and implemented a modern data engineering workflow u
 - **Azure Data Factory (ADF)** – Data integration and transformation  
 - **Azure Synapse Analytics** – Querying and analyzing structured data  
 - **Tableau** – Building dashboards and visual analytics  
-- **Wikipedia** – Source of football data  
+- **Wikipedia** – Source of football data
+- **Airflow** - Pipeline ochestration
+- **Docker** - Containerization
+- **Python** - Coding
+- **PostgresSQL** - Database
 
 ---
 
