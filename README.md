@@ -34,7 +34,6 @@ In this project, I designed and implemented a modern data engineering workflow u
 - **Azure Synapse Analytics** – Querying and analyzing structured data  
 - **Tableau** – Building dashboards and visual analytics  
 - **Wikipedia** – Source of football data
-- **Airflow** - Pipeline ochestration
 - **Docker** - Containerization
 - **Python** - Coding
 - **PostgresSQL** - Database
