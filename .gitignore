@@ -1,0 +1,37 @@
+# --- Python Artifacts ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+venv/
+env/
+.env
+
+# --- Airflow Artifacts ---
+# Local logs and temporary artifacts
+logs/
+airflow.db
+airflow-*.err
+airflow-*.out
+airflow-*.log
+airflow-*.pid
+.airflow_db_initialised
+standalone_admin_password.txt
+
+# --- Data & Secrets ---
+# Ignore your stadium CSV files
+data/*.csv
+# Ignore any files containing sensitive connection info
+secrets/
+variables.json
+
+# --- Docker ---
+# Ignore local Docker state (if applicable)
+.dockerignore
+.docker-context-files/
+
+# --- IDEs & OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
