@@ -1,0 +1,27 @@
+# --- Airflow Providers ---
+apache-airflow-providers-microsoft-azure
+apache-airflow-providers-postgres
+apache-airflow-providers-http
+
+# --- Azure & Data Lake (Essential for ADLS Gen2) ---
+adlfs
+azure-storage-blob
+azure-storage-file-datalake
+azure-identity
+fsspec
+
+# --- Scraping & Processing ---
+pandas
+numpy
+beautifulsoup4
+requests
+lxml
+wikipedia-api
+
+# --- Geolocation ---
+geopy
+geographiclib
+
+# --- Utilities ---
+tenacity
+python-dateutil
